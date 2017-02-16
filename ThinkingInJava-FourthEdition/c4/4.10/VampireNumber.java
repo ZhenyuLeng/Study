@@ -156,7 +156,7 @@ public class VampireNumber
   public static void main(String[] args)
   {
     int p4[] = {0, 1, 2, 3};
-    int p6[] = {0, 1, 2, 3, 4, 5, 6};
+    int p6[] = {0, 1, 2, 3, 4, 5};
     int seq4[][] = fullPermutation(p4);
     int seq6[][] = fullPermutation(p6);
     int f0seq4[][] = first0(seq4);
